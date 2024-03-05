@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|solutionrelative:family\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\models\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|solutionrelative:family\\models\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|solutionrelative:family\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\services\\fmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|solutionrelative:family\\services\\fmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\views\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC1EE36F-4336-4D6C-8BE5-CF9D9A7A7C30}|family\\family.csproj|solutionrelative:family\\views\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "family\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Models\\Gender.cs",
+              "RelativeToolTip": "family\\Models\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:50:28.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Views\\View.cs",
+              "RelativeDocumentMoniker": "family\\Views\\View.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Views\\View.cs",
+              "RelativeToolTip": "family\\Views\\View.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T20:03:32.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FMService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Services\\FMService.cs",
+              "RelativeDocumentMoniker": "family\\Services\\FMService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Services\\FMService.cs",
+              "RelativeToolTip": "family\\Services\\FMService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T16:33:28.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FamilyMember.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Models\\FamilyMember.cs",
+              "RelativeDocumentMoniker": "family\\Models\\FamilyMember.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Models\\FamilyMember.cs",
+              "RelativeToolTip": "family\\Models\\FamilyMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:43:39.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Program.cs",
+              "RelativeDocumentMoniker": "family\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\family\\family\\Program.cs",
+              "RelativeToolTip": "family\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T05:38:16.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

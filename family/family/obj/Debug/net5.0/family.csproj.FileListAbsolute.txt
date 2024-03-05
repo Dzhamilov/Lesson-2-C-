@@ -1,0 +1,16 @@
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\family.csproj.AssemblyReference.cache
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\family.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\family.AssemblyInfoInputs.cache
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\family.AssemblyInfo.cs
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\family.csproj.CoreCompileInputs.cache
+C:\Users\Акбар\source\repos\family\family\bin\Debug\net5.0\family.exe
+C:\Users\Акбар\source\repos\family\family\bin\Debug\net5.0\family.deps.json
+C:\Users\Акбар\source\repos\family\family\bin\Debug\net5.0\family.runtimeconfig.json
+C:\Users\Акбар\source\repos\family\family\bin\Debug\net5.0\family.runtimeconfig.dev.json
+C:\Users\Акбар\source\repos\family\family\bin\Debug\net5.0\family.dll
+C:\Users\Акбар\source\repos\family\family\bin\Debug\net5.0\family.pdb
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\family.dll
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\ref\family.dll
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\family.pdb
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\family.genruntimeconfig.cache
+C:\Users\Акбар\source\repos\family\family\obj\Debug\net5.0\refint\family.dll
