@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\lesson 6\\lesson 6\\calculatordividebyzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|solutionrelative:lesson 6\\calculatordividebyzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\lesson 6\\lesson 6\\calculateoperationcauseoverflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|solutionrelative:lesson 6\\calculateoperationcauseoverflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\lesson 6\\lesson 6\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|solutionrelative:lesson 6\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\lesson 6\\lesson 6\\icalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|solutionrelative:lesson 6\\icalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\lesson 6\\lesson 6\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|solutionrelative:lesson 6\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\lesson 6\\lesson 6\\operandchangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|solutionrelative:lesson 6\\operandchangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|c:\\users\\\u0430\u043A\u0431\u0430\u0440\\source\\repos\\lesson 6\\lesson 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC52F33B-6112-460D-BA31-15FDE0BAC902}|Lesson 6\\Lesson 6.csproj|solutionrelative:lesson 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperandChangedEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\OperandChangedEventArgs.cs",
+              "RelativeDocumentMoniker": "Lesson 6\\OperandChangedEventArgs.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\OperandChangedEventArgs.cs",
+              "RelativeToolTip": "Lesson 6\\OperandChangedEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:54:10.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\Logger.cs",
+              "RelativeDocumentMoniker": "Lesson 6\\Logger.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\Logger.cs",
+              "RelativeToolTip": "Lesson 6\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:53:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalc.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\ICalc.cs",
+              "RelativeDocumentMoniker": "Lesson 6\\ICalc.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\ICalc.cs",
+              "RelativeToolTip": "Lesson 6\\ICalc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:51:48.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\Calculator.cs",
+              "RelativeDocumentMoniker": "Lesson 6\\Calculator.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\Calculator.cs",
+              "RelativeToolTip": "Lesson 6\\Calculator.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAL0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:51:08.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateOperationCauseOverflowException.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\CalculateOperationCauseOverflowException.cs",
+              "RelativeDocumentMoniker": "Lesson 6\\CalculateOperationCauseOverflowException.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\CalculateOperationCauseOverflowException.cs",
+              "RelativeToolTip": "Lesson 6\\CalculateOperationCauseOverflowException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:50:31.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorDivideByZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\CalculatorDivideByZeroException.cs",
+              "RelativeDocumentMoniker": "Lesson 6\\CalculatorDivideByZeroException.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\CalculatorDivideByZeroException.cs",
+              "RelativeToolTip": "Lesson 6\\CalculatorDivideByZeroException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:50:14.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson 6\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043A\u0431\u0430\u0440\\source\\repos\\Lesson 6\\Lesson 6\\Program.cs",
+              "RelativeToolTip": "Lesson 6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:44:40.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
